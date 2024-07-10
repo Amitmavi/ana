@@ -1,0 +1,130 @@
+[17-Nov-2023 07:17:46 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 11
+[17-Nov-2023 07:17:46 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 11
+[17-Nov-2023 07:17:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 26
+[17-Nov-2023 07:19:03 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:19:03 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 22
+[17-Nov-2023 07:19:09 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:19:09 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 22
+[17-Nov-2023 07:20:33 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:20:33 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 25
+[17-Nov-2023 07:20:35 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:20:35 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:20:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 25
+[17-Nov-2023 07:21:55 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:21:55 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:24:29 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:24:29 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 25
+[17-Nov-2023 07:24:42 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:24:42 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 25
+[17-Nov-2023 07:26:21 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:26:21 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 25
+[17-Nov-2023 07:26:22 UTC] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:26:22 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:26:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 25
+[17-Nov-2023 07:28:54 UTC] PHP Warning:  include(/ana/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:28:54 UTC] PHP Warning:  include(): Failed opening '/ana/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:28:57 UTC] PHP Warning:  include(/ana/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:28:57 UTC] PHP Warning:  include(): Failed opening '/ana/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:50:34 UTC] PHP Warning:  include(/ana/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:50:34 UTC] PHP Warning:  include(): Failed opening '/ana/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 9
+[17-Nov-2023 07:51:05 UTC] PHP Warning:  include(/ana/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:51:05 UTC] PHP Warning:  include(): Failed opening '/ana/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:51:06 UTC] PHP Warning:  include(/ana/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:51:06 UTC] PHP Warning:  include(): Failed opening '/ana/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:56:18 UTC] PHP Warning:  include(ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:56:18 UTC] PHP Warning:  include(): Failed opening 'ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:00 UTC] PHP Warning:  include(ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:00 UTC] PHP Warning:  include(): Failed opening 'ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:01 UTC] PHP Warning:  include(ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:01 UTC] PHP Warning:  include(): Failed opening 'ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:01 UTC] PHP Warning:  include(ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:01 UTC] PHP Warning:  include(): Failed opening 'ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:04 UTC] PHP Warning:  include(ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:04 UTC] PHP Warning:  include(): Failed opening 'ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:05 UTC] PHP Warning:  include(ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:05 UTC] PHP Warning:  include(): Failed opening 'ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:05 UTC] PHP Warning:  include(ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 07:58:05 UTC] PHP Warning:  include(): Failed opening 'ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 24
+[17-Nov-2023 08:00:51 UTC] PHP Warning:  include(path-to-sidebar-file/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:00:51 UTC] PHP Warning:  include(): Failed opening 'path-to-sidebar-file/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 13
+[17-Nov-2023 08:01:12 UTC] PHP Warning:  include(path-to-sidebar-file/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:12 UTC] PHP Warning:  include(): Failed opening 'path-to-sidebar-file/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 13
+[17-Nov-2023 08:01:13 UTC] PHP Warning:  include(path-to-sidebar-file/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:13 UTC] PHP Warning:  include(): Failed opening 'path-to-sidebar-file/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 13
+[17-Nov-2023 08:01:54 UTC] PHP Warning:  include(/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:54 UTC] PHP Warning:  include(): Failed opening '/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 13
+[17-Nov-2023 08:01:56 UTC] PHP Warning:  include(/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:56 UTC] PHP Warning:  include(): Failed opening '/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 10
+[17-Nov-2023 08:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateSidebar() in /home/xcispcjl/public_html/project/ana/Social/social.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Social/social.php on line 13
+[17-Nov-2023 08:07:02 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 36
+[17-Nov-2023 08:07:02 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 36
+[17-Nov-2023 08:09:11 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 36
+[17-Nov-2023 08:09:11 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 36
+[17-Nov-2023 08:09:27 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:09:27 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:09:28 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:09:28 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:09:43 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:09:43 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:09:44 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:09:44 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:07 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:07 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:09 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:09 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:14 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:14 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:15 UTC] PHP Warning:  include(/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35
+[17-Nov-2023 08:11:15 UTC] PHP Warning:  include(): Failed opening '/Users/techc/AppData/Roaming/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/11c1b0ad8a67f8f1b46b3bb9a14dfa28/public_html/project/ana/const/sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Social/social.php on line 35

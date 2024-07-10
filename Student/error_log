@@ -1,0 +1,4 @@
+ 
+[26-Nov-2023 05:34:20 UTC] PHP Warning:  Undefined array key "id" in /home/xcispcjl/public_html/project/ana/Student/studentDetails.php on line 18
+[26-Nov-2023 05:35:09 UTC] PHP Warning:  Undefined array key "id" in /home/xcispcjl/public_html/project/ana/Student/studentDetails.php on line 18
+[26-Nov-2023 05:37:02 UTC] PHP Warning:  Undefined array key "branch" in /home/xcispcjl/public_html/project/ana/Student/studentDetails.php on line 21

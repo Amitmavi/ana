@@ -1,0 +1,183 @@
+[26-Nov-2023 08:29:17 UTC] PHP Warning:  Undefined array key "first_name" in /home/xcispcjl/public_html/project/ana/Teacher/process_teacher_registration.php on line 15
+[26-Nov-2023 08:29:17 UTC] PHP Warning:  Undefined variable $mobile_no in /home/xcispcjl/public_html/project/ana/Teacher/process_teacher_registration.php on line 46
+[26-Nov-2023 08:29:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'xcispcjl_ANA.teacher' doesn't exist in /home/xcispcjl/public_html/project/ana/Teacher/process_teacher_registration.php:48
+Stack trace:
+#0 /home/xcispcjl/public_html/project/ana/Teacher/process_teacher_registration.php(48): mysqli_query()
+#1 {main}
+  thrown in /home/xcispcjl/public_html/project/ana/Teacher/process_teacher_registration.php on line 48
+[26-Nov-2023 08:29:46 UTC] PHP Warning:  Undefined array key "first_name" in /home/xcispcjl/public_html/project/ana/Teacher/process_teacher_registration.php on line 15
+[26-Nov-2023 08:29:46 UTC] PHP Warning:  Undefined variable $mobile_no in /home/xcispcjl/public_html/project/ana/Teacher/process_teacher_registration.php on line 46
+[26-Nov-2023 08:34:27 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:34:27 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:34:30 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:34:30 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:15 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:15 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:19 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:19 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:20 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:20 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:21 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:22 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:22 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:22 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:22 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:23 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:23 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:23 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:23 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:23 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:23 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:34 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:35:34 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:47 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:47 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:48 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:48 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:48 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:48 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:48 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:48 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:49 UTC] PHP Warning:  include(teacherDetails.php): Failed to open stream: No such file or directory in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[26-Nov-2023 08:36:49 UTC] PHP Warning:  include(): Failed opening 'teacherDetails.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/xcispcjl/public_html/project/ana/Teacher/teacher.php on line 78
+[29-Nov-2023 17:36:00 UTC] PHP Warning:  Undefined array key "email" in /home/xcispcjl/public_html/project/ana/Teacher/class_selection_form.php on line 16
+[29-Nov-2023 17:36:17 UTC] PHP Warning:  Undefined array key "email" in /home/xcispcjl/public_html/project/ana/Teacher/class_selection_form.php on line 16
+[29-Nov-2023 17:36:58 UTC] PHP Warning:  Undefined array key "email" in /home/xcispcjl/public_html/project/ana/Teacher/class_selection_form.php on line 70
+[29-Nov-2023 17:38:09 UTC] PHP Warning:  Undefined array key "email" in /home/xcispcjl/public_html/project/ana/Teacher/class_selection_form.php on line 70
+[29-Nov-2023 17:55:59 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 17:55:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:10:38 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:10:38 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:10:38 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:10:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:10:41 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:10:41 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:10:41 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:10:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:12:56 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:12:56 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:12:56 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:12:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:13 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:13 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:13 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:14 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:14 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:14 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:18 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:18 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:18 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:22 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:22 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:22 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:24 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:24 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:24 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:15:25 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:15:25 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:15:25 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:15:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:16:34 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:16:34 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:16:34 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:16:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:17:01 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:17:01 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:17:01 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:17:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 27
+[29-Nov-2023 18:18:51 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:18:51 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:18:51 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:18:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 32
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 32
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 32
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 32
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:18:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 32
+[29-Nov-2023 18:18:56 UTC] PHP Warning:  Undefined array key "records" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 22
+[29-Nov-2023 18:18:56 UTC] PHP Warning:  Undefined array key "teacherName" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 23
+[29-Nov-2023 18:18:56 UTC] PHP Warning:  Undefined array key "teacherEmail" in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 24
+[29-Nov-2023 18:18:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/xcispcjl/public_html/project/ana/Teacher/process_class_selection.php on line 32

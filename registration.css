@@ -1,0 +1,111 @@
+a {
+    text-decoration: none;
+}
+
+.container {
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    background-color: White;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 0 15px;
+    margin-left: 50px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, .3);
+}
+
+.logo img {
+    height: 40px;
+    margin-left: 20rem;
+}
+
+.container header {
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    color: #333;
+}
+
+.container header::before {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0px;
+    height: 3px;
+    width: 27px;
+    background-color: #4070f4;
+}
+
+.container form {
+    position: relative;
+    margin-top: 15px;
+    min-height: 520px;
+    background-color: white;
+}
+
+.container form .details-persnol {
+    margin-top: 10px;
+}
+
+.container form .details-id {
+    margin-top: 20px;
+}
+
+.container form .title {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 5px 0;
+    color: #333;
+}
+
+.amit {
+    padding: 9px;
+}
+
+.container form .fields {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+form .fields .input-fields {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-fields input {
+    height: 29px;
+    padding: 0 15px;
+    margin: 8px 0;
+}
+
+.fields {
+    margin-top: 5px;
+}
+
+.input-fields label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #2e2e2e;
+}
+
+.btn {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 120px;
+    height: 34px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    background: blue;
+    cursor: pointer;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.btn :hover {
+    opacity: .7;
+}
